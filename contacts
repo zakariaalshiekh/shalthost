@@ -192,6 +192,15 @@
 
         },
         {
+                "id": "c2012",
+                "name": "متعب ال سالم",
+                "nameshal": "شيلة دروب المحبه",
+                "url": "https://sheelat.com/uploads/songs/shylt_drwb_alm7bh.mp3",
+                "nameid": "21"
+             
+
+        }	,
+        {
                 "id": "c202",
                 "name": "علي البريكي",
                 "nameshal": "احساس شاعر",
@@ -428,6 +437,14 @@
                
         }
 		,
+        {       "id": "c201",
+                "name": "جابر بن صبح",
+                "nameshal": "شيلة ذاكرات الحب",
+                "url": "https://sheelat.com/uploads/songs/shylt_dakrat_al7b.mp3",
+                "nameid": "2"
+              
+                
+        },
         {       "id": "c201",
                 "name": "جابر بن صبح",
                 "nameshal": "شيلة ياما عطينا",
@@ -2948,6 +2965,24 @@
                 "nameid": "20"
              
 
-        }
+        },
+        {
+                "id": "c2012",
+                "name": "متعب ال سالم",
+                "nameshal": "شيلة الشوق",
+                "url": "https://sheelat.com/uploads/songs/shylt_alshwk.mp3",
+                "nameid": "21"
+             
+
+        }	,
+        {
+                "id": "c2012",
+                "name": "متعب ال سالم",
+                "nameshal": "شيلة يامتعب",
+                "url": "https://d.top4top.net/m_544v1v8r1.mp3",
+                "nameid": "21"
+             
+
+        }	
     ]
 }
